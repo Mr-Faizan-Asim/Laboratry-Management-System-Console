@@ -1,0 +1,2 @@
+# Laboratry-Management-System-Console
+<p>A laboratory management system (LMS) is a software tool designed for efficient management of laboratory operations. It helps track samples, manage inventory, automate workflows, and store and retrieve data. Integration with laboratory equipment enhances data accuracy. Access control ensures data security and compliance with regulations, making LMS an invaluable asset in modern laboratory settings.</p>
